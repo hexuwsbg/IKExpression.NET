@@ -1,2 +1,2 @@
-# -IKExpression.NET
+# IKExpression.NET
 Eval complex expression, supporting custom methods...
