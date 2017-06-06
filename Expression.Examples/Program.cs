@@ -28,7 +28,7 @@ namespace Expression.Examples
         static void BoolExample()
         {
             // strings should be surrounded by ""
-            // methods should start with @
+            // methods should start with $
             string expression = "1<3&&(4>5||$Contains(\"test\",\"te\"))";
 
             object result = ExpressionEvaluator.Evaluate(expression);
